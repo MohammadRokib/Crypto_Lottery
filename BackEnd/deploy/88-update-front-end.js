@@ -1,8 +1,8 @@
 const { ethers, network } = require("hardhat");
 const fs = require("fs");
 
-const ADDRESS_FILE = "../../Tests/nextjs_lottery/constants/contractAddresses.json";
-const ABI_FILE = "../../Tests/nextjs_lottery/constants/abi.json";
+const ADDRESS_FILE = "../FrontEnd/constants/contractAddresses.json";
+const ABI_FILE = "../FrontEnd/constants/abi.json";
 
 module.exports = async function () {
   if (process.env.UPDATE_FRONT_END) {

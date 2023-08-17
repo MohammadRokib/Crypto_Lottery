@@ -60,7 +60,7 @@
 
 This is a **Crypto Lottery** app built on the **Ethereum** platform, with the backend operating on the blockchain. Anyone can participate in the lottery by paying an entrance fee. At regular intervals, a winner will be randomly selected, and the total funds will then be transferred to the winner's account.
 
-While this application revolves around a lottery app utilizing blockchain technology, its primary objective is not to create the world's best lottery app, but rather to demonstrate the utilization of **[Chainlink VRF]([Introduction to Chainlink VRF | Chainlink Documentation](https://docs.chain.link/vrf/v2/introduction))** and **[Chainlink Automation]([Introduction to Chainlink Automation | Chainlink Documentation](https://docs.chain.link/chainlink-automation/introduction))**.
+While this application revolves around a lottery app utilizing blockchain technology, its primary objective is not to create the world's best lottery app, but rather to demonstrate the utilization of **[Chainlink VRF](https://docs.chain.link/vrf/v2/introduction)** and **[Chainlink Automation](https://docs.chain.link/chainlink-automation/introduction)**.
 
 `Chainlink VRF`, or `Verifiable Random Function`, serves as a provably fair and verifiable random number generator (RNG), allowing smart contracts to access random values without compromising security or usability.
 
